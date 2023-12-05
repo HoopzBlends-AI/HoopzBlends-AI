@@ -1,0 +1,9 @@
+{
+    "user_id": 1,
+    "name": "Richard Emeka Uzokah",
+    "age": 45,
+    "preferences": {
+        "theme": "dark",
+        "language": "English"
+    }
+}

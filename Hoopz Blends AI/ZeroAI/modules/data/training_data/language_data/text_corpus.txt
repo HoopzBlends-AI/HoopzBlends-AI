@@ -1,0 +1,13 @@
+# Define the content for the text_corpus.txt file
+text_corpus_content = '''Welcome to Zero AI.
+This text corpus is used for language processing.
+Zero AI is designed to assist and learn from interactions.
+The future is exciting with AI-driven technology.
+'''
+
+# Define the path to the text_corpus.txt file
+text_corpus_path = '/path/to/your/base_directory/data/training_data/language_data/text_corpus.txt'
+
+# Write the content to the text_corpus.txt file
+with open(text_corpus_path, 'w') as file:
+    file.write(text_corpus_content)

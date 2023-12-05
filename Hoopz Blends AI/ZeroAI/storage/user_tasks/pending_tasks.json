@@ -1,0 +1,62 @@
+# storage/user_tasks/pending_tasks.json
+# Example content for pending tasks file
+{
+    "tasks": [
+        {
+            "id": 1,
+            "description": "Complete AI module integration",
+            "status": "incomplete"
+        },
+        {
+            "id": 2,
+            "description": "Update language processing algorithms",
+            "status": "incomplete"
+        }
+        # Add more tasks as needed
+    ]
+}
+
+
+# storage/user_tasks/completed_tasks.json
+# Example content for completed tasks file
+{
+    "tasks": [
+        {
+            "id": 3,
+            "description": "Fix graphical interface bugs",
+            "status": "complete"
+        },
+        {
+            "id": 4,
+            "description": "Optimize decision-making logic",
+            "status": "complete"
+        }
+        # Add more completed tasks as needed
+    ]
+}
+
+
+# storage/temporary_data/temp_files/temp_file_1.tmp
+# Placeholder for temporary file 1
+
+
+# storage/temporary_data/temp_files/temp_file_2.tmp
+# Placeholder for temporary file 2
+
+
+// pending_tasks.json
+{
+    "tasks": [
+        {
+            "id": 1,
+            "description": "Complete AI module integration",
+            "status": "incomplete"
+        },
+        {
+            "id": 2,
+            "description": "Update language processing algorithms",
+            "status": "incomplete"
+        }
+        // Add more tasks as needed
+    ]
+}
